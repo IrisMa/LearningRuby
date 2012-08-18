@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 .idea/
+=======
 *.gem
 *.rbc
 .bundle
@@ -17,3 +19,4 @@ tmp
 .yardoc
 _yardoc
 doc/
+>>>>>>> 21204795938ea8315c685116737298c796854966
